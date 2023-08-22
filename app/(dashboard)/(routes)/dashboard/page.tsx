@@ -4,7 +4,7 @@ import React from 'react'
 const DashboardPage = () => {
   return (
     <div>
-      <Button variant={'destructive'} size={'lg'}>Click me </Button>
+      <p>Dashboard Page (Protected)</p>
     </div>
   )
 }
